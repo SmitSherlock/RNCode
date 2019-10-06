@@ -11,12 +11,3 @@ npm run webpack-production
 npm run electron-packager
 ```
 2. in your RNCode folder, navigate to the release-builds folder and double-click on RNCode (executable).
-
-## To check out RNCode in developer mode follow these instructions:
-1. go to your terminal and type the following:
-```
-
-npm install
-npm run webpack-production
-npm start
-```
