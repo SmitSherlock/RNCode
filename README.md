@@ -1,4 +1,4 @@
-### RNCode is the IDE for React-Native web mobile application development.
+### RNCode is the IDE for React-Native mobile application development.
 
 ## Getting Started with RNCode
 The RNCode IDE can be set up in two ways, the first is to bundle the electron app and run it as a native desktop App. The instructions are as follows:
